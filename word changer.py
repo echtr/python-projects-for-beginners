@@ -1,8 +1,8 @@
 # Github: EchTR
 import os
-kelime1 = input("Değişecek kelime :")
-kelime2 = input("Hangi kelimeyle değiştirilsin ? :")
-metin = input("Metni yazın:")
+kelime1 = input("Word to change: ")
+kelime2 = input("Hangi kelimeyle değiştirilsin ? : ")
+metin = input("Test: ")
 kelimeler = metin.split()
 donus = -1
 metin2 = ""
