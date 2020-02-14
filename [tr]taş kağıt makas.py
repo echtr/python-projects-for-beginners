@@ -12,7 +12,6 @@ kazanma = 0
 kaybetme = 0
 berabere = 0
 anahtar = 0
-print("TURKISH LANGUAGE")
 while anahtar == 0:
     print("""
 Merhabalar, taş kağıt, makas oyununa hoş geldin. 
