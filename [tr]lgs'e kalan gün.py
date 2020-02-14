@@ -1,3 +1,4 @@
+# Github: EchTR
 import datetime
 suanki_tarih = datetime.datetime.now()
 gun_ismi = suanki_tarih.strftime("%A")
