@@ -1,8 +1,8 @@
 # Github: EchTR
 import os
 kelime1 = input("Word to change: ")
-kelime2 = input("Hangi kelimeyle değiştirilsin ? : ")
-metin = input("Test: ")
+kelime2 = input("Which word should you replace? : ")
+metin = input("Text: ")
 kelimeler = metin.split()
 donus = -1
 metin2 = ""
