@@ -5,4 +5,4 @@ def filter_list(liste):
 		if(type(i) == int):
 			sayilar.append(i)
 	return sayilar
-input(filter_list([1,2,"efe",20]))
+input(filter_list([1,2,"echtr",20]))
