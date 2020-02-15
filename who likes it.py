@@ -11,4 +11,4 @@ def likes(names):
 		return names[0] + ", " + names[1] + " and " + names[2] + " like this"
 	elif (uzunluk >= 4):
 		return names[0] + ", " + names[1] + " and " + str(uzunluk - 2) + " others like this"
-input(likes(["Efe","Rüzgar","Tüzgar","Püzgar","Züzgar"]))
+input(likes(["EchTR"]))
