@@ -1,6 +1,4 @@
 #Github: EchTR
-#Steam ID: EchTR
-#Discord Name: EchTR
 import random
 import os
 secenekler = ["tas","kagit","makas"]
